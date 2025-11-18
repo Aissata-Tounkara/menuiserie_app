@@ -120,7 +120,7 @@ export default function PageConnexion() {
               <p className="text-blue-100 text-sm">
                 "Une solution complète qui a transformé notre gestion quotidienne"
               </p>
-              <p className="text-white font-semibold mt-2">— Mohammed K., Gérant</p>
+              <p className="text-white font-semibold mt-2">— Aissata Tounkara., Gérante</p>
             </div>
           </div>
         </div>
@@ -284,12 +284,7 @@ export default function PageConnexion() {
       </div>
 
       {/* Footer */}
-      <div className="absolute bottom-4 left-0 right-0 text-center">
-        <p className="text-sm text-gray-500">
-          © 2024 Menuiserie Aluminium. Tous droits réservés.
-        </p>
-      </div>
-
+      
       <style>{`
         @keyframes slide-in {
           from {
